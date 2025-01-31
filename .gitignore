@@ -1,0 +1,6 @@
+#ignore files
+*.mat
+*.mod
+*.seq
+*.tar
+*.entry
